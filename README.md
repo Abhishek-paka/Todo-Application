@@ -28,8 +28,12 @@ To add new Todo Item ![image](https://github.com/Abhishek-paka/Todo-Application/
 2. Open the project in your favorite Java IDE (e.g., IntelliJ, Eclipse, etc.).
 
 3. Add the JavaFX jar files to the project and run the application.
+  
+4. For the icon(i.e. New File) add jIfgr-1_0.jar file
 
-4. Start managing your tasks and deadlines with ease!
+5. Start managing your tasks and deadlines with ease!
+  
+6. No Database is used in this all the data is stored and updated in txt file
 
 ## Technologies Used
 
@@ -39,6 +43,15 @@ To add new Todo Item ![image](https://github.com/Abhishek-paka/Todo-Application/
 
 ## Project Structure
 
+├── src/ # Contains the Java source code files
+│ ├── main.java.com.example.todoapplication/ # Application source files
+| ├── main.java.com.example.todoapplication.DataModel/ # Contains DataModel and TodoItem Structure
+│ ├── main.resources.com.example.todoapplocation/ # Contains additional resources (e.g., FXML files)
+│ └── Application.java # Entry point of the application
+├── target.classes.com.example.todoapplication/ # Output directory for compiled files
+├── .gitignore # Specifies files/folders to be ignored by Git
+├──TodoListItems.txt # Data FIles
+└── README.md # This README file
 
 ## Contribution
 
