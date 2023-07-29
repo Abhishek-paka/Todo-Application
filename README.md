@@ -17,6 +17,7 @@ Welcome to the JavaFX Todo Application repository! This project showcases a simp
 ## Screenshots
 
 Todo Application UI ![image](https://github.com/Abhishek-paka/Todo-Application/assets/118460491/03c3aa22-3a46-432d-b3d6-0010bc9f14ad)
+To add new Todo Item ![image](https://github.com/Abhishek-paka/Todo-Application/assets/118460491/edc4b36b-7ea5-417a-a12a-f8d85e70cdce)
 
 
 ## Usage
