@@ -1,6 +1,6 @@
-# Todo-Application using JavaFX
+# Todo-Application 
 
-# JavaFX Todo Application
+# Todo Application using JavaFX
 
 Welcome to the JavaFX Todo Application repository! This project showcases a simple Todo Application built using JavaFX, allowing users to manage their tasks with deadlines.
 
