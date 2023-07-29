@@ -41,17 +41,8 @@ To add new Todo Item ![image](https://github.com/Abhishek-paka/Todo-Application/
 - Java - For the application's logic and functionality.
 - IDE - Intelij for Java Developers
 
-## Project Structure
-
-├── src/ # Contains the Java source code files
-│ ├── main.java.com.example.todoapplication/ # Application source files
-| ├── main.java.com.example.todoapplication.DataModel/ # Contains DataModel and TodoItem Structure
-│ ├── main.resources.com.example.todoapplocation/ # Contains additional resources (e.g., FXML files)
-│ └── Application.java # Entry point of the application
-├── target.classes.com.example.todoapplication/ # Output directory for compiled files
-├── .gitignore # Specifies files/folders to be ignored by Git
-├──TodoListItems.txt # Data FIles
-└── README.md # This README file
+## Project Structure -> 
+            Refer README file in TodoApplication Folder 
 
 ## Contribution
 
