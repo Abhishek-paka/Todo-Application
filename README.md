@@ -11,6 +11,7 @@ Welcome to the JavaFX Todo Application repository! This project showcases a simp
 - View and the items are organized according to their deadlines.
 - Deadlines are intimated with different colors
 - like Red(today is the deadline) Yellow(One day left for the deadline)
+- also added a Toggle button to filter the Today's Item 
 
 ### NOT A PRETTY GOOD UI BUT A PRETTY FUNCTIONAL UI ###
 
